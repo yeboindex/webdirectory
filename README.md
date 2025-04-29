@@ -1,2 +1,2 @@
 # webdirectory
-An Astro web directory
+An Astro web directory.
